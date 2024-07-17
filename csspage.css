@@ -1,0 +1,18 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttoncss {
+    width: 150px;
+    height: 50px;
+    font-size: 16px;
+    margin: 10px; 
+    transition: width 0.3s ease, height 0.3s ease, font-size 0.3s ease;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
